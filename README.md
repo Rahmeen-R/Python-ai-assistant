@@ -32,3 +32,7 @@ Fast, lightweight, and easy to deploy
 Purpose:
 
 This project highlights my ability to design and build AI‑driven applications with clean code, modern frameworks, and a strong focus on user experience — the same approach I bring to professional engineering teams.
+
+How to Run:
+
+Add your Gemini API key inside a .env file using GEMINI_API_KEY=your_key. The app loads this key automatically at startup. After installing the required packages from requirements.txt, start the assistant by running streamlit run app.py, which opens the Python AI tutor in your browser.
